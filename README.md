@@ -1,4 +1,4 @@
 Toast
 =====
 
-Toast for iOS.
+A notification library for iOS. 
